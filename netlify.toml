@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/foo"
+  to = "https://delta-3.netlify.app/foo"
+  status = 200
+  force = true
+  
